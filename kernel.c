@@ -17,7 +17,7 @@ void k_main()
 	k_printf("Hello, world! Welcome to Mini OS.", 0);
 	k_printf("I'm doing a (free) operating system (just as a hobby", 2);
 	k_printf("won't be big and professional like gnu) for x86 machines.", 3);
-	k_printf("This is my kernel-1.0.2, purely written in assembly and C.", 4);
+	k_printf("This is my kernel-0.0.1, purely written in assembly and C.", 4);
 	k_printf("This is supposed to be my Major project for the final year.", 5);
 	k_printf("-Debashis Barman\nhttp://debashisbarman.in", 7);
 };
