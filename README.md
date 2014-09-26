@@ -29,7 +29,7 @@ qemu-system-i386 -kernel kernel
 </pre>
 
 ##License
-All other files are [MIT](http://opensource.org/licenses/MIT) Licensed.
+All the files in this repository are [MIT](http://opensource.org/licenses/MIT) licensed.
 
 ##Author
 Debashis Barman [http://www.debashisbarman.in](http://www.debashisbarman.in)
