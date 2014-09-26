@@ -24,7 +24,7 @@ ld -m elf_i386 -T link.ld -o kernel kasm.o kc.o
 </pre>
 
 ##Configuring the grub
-GRUB requires the kernel to be of the name pattern <code>kernel-<version></code> . So, I renamed my kernel executable to <code>kernel-0.0.1</code>.
+GRUB requires the kernel to be of the name pattern <code>kernel-&lt;version&gt;</code> . So, I renamed my kernel executable to <code>kernel-0.0.1</code>.
 
 Now place it in the <code>/boot</code> directory. You will require superuser privileges to do so.
 
