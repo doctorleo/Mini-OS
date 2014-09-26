@@ -37,7 +37,7 @@ title Mini OS
 </pre>
 
 ##Using the qemu emulator
-The kernel will be run using the <code>qemu</code> emulator.
+The kernel will also be run using the <code>qemu</code> emulator.
 <pre>
 qemu-system-i386 -kernel kernel
 </pre>
