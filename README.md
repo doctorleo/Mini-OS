@@ -1,10 +1,11 @@
 Mini-OS
 =======
+>A Bare Bone Operating System written in C and Assembly.
 
 Mini OS is a simple kernel written in C and Assembly which could be loaded with the GRUB bootloader on an x86 system. This kernel will display a message on the screen and then hang.
 
 ##Tools
-Before writing the kernel, make sure that the following tools are available in your system.
+Before building the kernel, make sure that the following tools are available in your system.
 <ul>
 <li>An x86 computer (of course)</li>
 <li>Linux</li>
