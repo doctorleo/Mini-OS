@@ -1,8 +1,6 @@
 Mini-OS
 =======
 
-A Bare Bone Operating System written in C and Assembly.
-
 Mini OS is a simple kernel written in C and Assembly which could be loaded with the GRUB bootloader on an x86 system. This kernel will display a message on the screen and then hang.
 
 ##Tools
@@ -29,5 +27,11 @@ The kernel will be run using the <code>qemu</code> emulator.
 <pre>
 qemu-system-i386 -kernel kernel
 </pre>
+
+##License
+All other files are [MIT](http://opensource.org/licenses/MIT) Licensed.
+
+##Author
+Debashis Barman [http://www.debashisbarman.in](http://www.debashisbarman.in)
 
 
